@@ -22,6 +22,7 @@ För schema, se Teams.
 <br>
 
 ## **Uppgift**
+Du kan göra ditt projekt med valfritt ramverkt, vanilla JS, Bootstrap eller annat bibliotek. Välj det som du tycker bäst om att arbeta med!
 
 **Du kan välja projekt själv**
 
