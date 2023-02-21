@@ -1,9 +1,9 @@
 # APL-projekt
 ### Projekt där ni ska skapa ett arbetsprov i HTML, CSS och JS. 
 
-### ** Deadline: vecka 13 
+### **Deadline: vecka 13**
 
-## ** Uppgift
+## ** Uppgift **
 
 ** Du kan välja projekt själv
 
