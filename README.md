@@ -1,9 +1,13 @@
 # APL-projekt
-### Projekt där ni ska skapa ett arbetsprov i HTML, CSS och JS. 
+### Syftet med det här projektet är att skapa ett arbetsprov som visar dina kunskaper inom frontendutveckling. 
 
 
 ## **Deadline**
 vecka 13
+
+
+## **Bedömning**
+Vecka 13 kommer ni att presentera ert projekt för mig och de övriga deltagarna i projektet. 
 
 
 ## **Uppgift**
