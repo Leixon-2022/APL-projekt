@@ -15,7 +15,10 @@ Vecka 13 kommer ni att presentera ert projekt för mig och de övriga deltagarna
 
 ## Upplägg
 1. Individuellt arbete samt handledning 2-3 tillfällen i veckan. 
-2. Code review i grupp
+2. Code review i grupp:
+En gång i veckan (förslagsvis onsdagar, eftersom ni inte har någon handledning då) ses ni för att gå igenom varandras kod, hjälpa till att lösa problem och 
+berätta vad ni jobbat med de senaste dagarna. Ha gärna en stående tid och dag i veckan som alla i gruppen vet gäller. 
+
 <br>
 För schema, se Teams. 
 
