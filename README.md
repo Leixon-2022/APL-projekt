@@ -29,7 +29,6 @@ alternativt
 
 **Sinus Skateboard Webshop**
 
-<br>
 
 ## Sinus Skateboard Webshop
 Webbshop med logotyp, header, nav, main, footer och en eller ett par produktbilder.
