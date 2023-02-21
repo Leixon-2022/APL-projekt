@@ -36,7 +36,7 @@ ge varandra användbar feedback. Ge varje gruppmedlem ett par minuter att berät
 <br>
 
 ## **Uppgift**
-Du kan göra ditt projekt med valfritt ramverkt, vanilla JS, Bootstrap eller annat bibliotek. Välj det som du tycker bäst om att arbeta med!
+Du kan göra ditt projekt med valfritt ramverk, vanilla JS, Bootstrap eller annat bibliotek. Välj det som du tycker bäst om att arbeta med!
 
 **Du kan välja projekt själv**
 
