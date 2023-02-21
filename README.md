@@ -4,7 +4,7 @@ Syftet med det här projektet är att skapa ett arbetsprov som visar dina kunska
 <br>
 
 ## **Deadline**
-vecka 13
+Vecka 13
 
 <br>
 
@@ -12,6 +12,12 @@ vecka 13
 Vecka 13 kommer ni att presentera ert projekt för mig och de övriga deltagarna i projektet. 
 
 <br>
+
+## Upplägg
+
+
+
+
 
 ## **Uppgift**
 
@@ -22,3 +28,5 @@ alternativt
 **Sinus Skateboard Webshop**
 
 <br>
+
+## Sinys Skateboard Webshop
