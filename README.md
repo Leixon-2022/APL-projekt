@@ -15,8 +15,8 @@ Vecka 13 kommer ni att presentera ert projekt för mig och de övriga deltagarna
 
 ## Upplägg
 1. **Individuellt arbete samt handledning 2-3 tillfällen i veckan.** För schema på handledningstillfällen, se Teams. 
-2. <br>
-3. **Code review i grupp:**<br>
+<br>
+2. **Code review i grupp:**<br>
 En gång i veckan ses ni för att gå igenom varandras kod, hjälpa till att lösa problem och 
 ge varandra användbar feedback. Ge varje gruppmedlem ett par minuter att berätta hur det går och om det finns problem som behöver lösas. Sedan kan ni turas om att komma med förslag samt sitta tillsammans och komma på lösningar. 
 
@@ -24,6 +24,7 @@ ge varandra användbar feedback. Ge varje gruppmedlem ett par minuter att berät
 <br>
 
 ![Exempel](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/low-fid-wireframe.png)
+<br>
 3. Skapa en **projektplan** som du utgår ifrån i ditt arbete: <br>
 **Steg 1.** Wireframe: Rita upp dina vyer/sidor med papper och penna. Hur ser startsidan ut? Vad händer om jag klickar på en länk? Kolla på andra sidor som liknar din för att få inspiration! <br>
 **Steg 2.** Skriv upp ungefär hur lång tid du tänker viga åt varje delmoment. Detta kan ändras senare men ger dig ett löst schema att utgå ifrån. <br>
