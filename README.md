@@ -3,11 +3,11 @@
 
 ### **Deadline: vecka 13**
 
-## ** Uppgift **
+## **Uppgift**
 
-** Du kan välja projekt själv
+**Du kan välja projekt själv**
 
 alternativt
 
-** Sinus Skateboard Webshop
+**Sinus Skateboard Webshop**
 
