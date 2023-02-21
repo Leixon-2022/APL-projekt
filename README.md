@@ -15,9 +15,9 @@ Vecka 13 kommer ni att presentera ert projekt för mig och de övriga deltagarna
 
 ## Upplägg
 
+För schema, se Teams. 
 
-
-
+<br>
 
 ## **Uppgift**
 
@@ -30,3 +30,5 @@ alternativt
 <br>
 
 ## Sinys Skateboard Webshop
+
+Förslag på [layout av er webbshop](https://www.figma.com/file/gaGH2UTxzziexM3Bc49GA5/SINUS-Skate-Webshop?node-id=0%3A1&t=iV6UdYndwFCCms0P-0).
